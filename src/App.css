@@ -10,7 +10,6 @@
 
 .nav {
   background-color: #000000;
-  padding: 10px;
 }
 
 .navbar {
@@ -20,7 +19,7 @@
 }
 
 .left {
-  flex: 1;
+ 
 }
 
 .right {
@@ -30,12 +29,11 @@
 
 
 .text {
-  width: 100%;
   display: flex;
   background-color: black;
   color: rgb(255, 255, 255);
-  padding: 3vh;
-  font-size: 5vh;
+  padding: 13px;
+  font-size: 4vh;
 }
 
 .page {
@@ -44,7 +42,8 @@
   font-family: serif;
   color: rgb(0, 0, 0);
   font-weight: 900;
-  margin: 20vh;
+  margin-top: 35vh;
+  margin-left: 103vh;
 }
 
 .space {
